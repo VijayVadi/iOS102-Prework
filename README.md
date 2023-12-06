@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-https://github.com/VijayVadi/iOS102-Prework/assets/42524087/18cad854-c3f3-40c4-8a27-45b86fe8882b
+https://github.com/VijayVadi/iOS102-Prework/assets/42524087/f1bc337f-3705-48a4-aa12-2ec3f87e1955
 
 ### Required Features
 
