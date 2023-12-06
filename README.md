@@ -23,6 +23,6 @@ https://github.com/VijayVadi/iOS102-Prework/assets/42524087/18cad854-c3f3-40c4-8
 - [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
 - [X] 4. Any stylistic changes that are not default options\
            1. New screen that shows entered information\
-           2. New Alert that displays warnign when required fields are empty\
+           2. New Alert that displays warning when required fields are empty\
            3. Data persistence, using user defaults, when applciation is closed\
            4. Button that allows user to change entered info
